@@ -24,8 +24,8 @@ This dataset is licensed under the [MIT License](https://opensource.org/licenses
 
 ```bibtex
 @article{HateThaiSent,
-	author = {Krishanu Maity, A.S. Poornash, Shaubhik Bhattacharya, Salisa Phosit, Sawarod Kongsamlit, Sriparna Saha, and Kitsuchart Pasupa},
-	title = {{HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language}},
+    author = {Krishanu Maity, A.S. Poornash, Shaubhik Bhattacharya, Salisa Phosit, Sawarod Kongsamlit, Sriparna Saha, and Kitsuchart Pasupa},
+    title = {{HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language}},
     journal = {IEEE Transactions on Computational Social Systems},
     year = {2024},
 }

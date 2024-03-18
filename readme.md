@@ -1,16 +1,16 @@
-# HateThaiSent Dataset
+# HateThaiSent Dataset and ThaiCaps multi-tasking framework
 
 **_Krishanu Maity, A.S. Poornash, Shaubhik Bhattacharya, Salisa Phosit, Sawarod Kongsamlit, Sriparna Saha, and Kitsuchart Pasupa_**
 
 ---
 
-This repository contains annotated data of Thai hatespeech available for hatespeech detection and sentiment analysis, appeared in the paper
+This repository contains annotated data of Thai hate speech available for hate speech detection and sentiment analysis and also the proposed multi-task deep learning framework ThaiCaps along with its SOTA counterparts for comparison, which appeared in the paper
 "[HateThaiSent: Sentiment-Aided Hate Speech Detection in Thai Language]()"
 
 ## Details
 - The dataset contains 7597 messages.
-- The annotations are contained in the format of csv.
-- Each messages was annotated by the hateful `Hatespeech`, `Nonhatespeech` and the sentiment `Positive`, `Neutral`, `Negative` of the message.
+- The annotations are contained in the format of a CSV file.
+- Each message was annotated by the hateful `Hatespeech`, `Nonhatespeech` and the sentiment `Positive`, `Neutral`, `Negative` of the message.
 
 ![Instance per category](asset/stackedbarsent.png)
 

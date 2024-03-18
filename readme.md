@@ -11,6 +11,11 @@ This repository contains annotated data of Thai hate speech available for hate s
 - The dataset contains 7597 messages.
 - The annotations are contained in the format of a CSV file.
 - Each message was annotated by the hateful `Hatespeech`, `Nonhatespeech` and the sentiment `Positive`, `Neutral`, `Negative` of the message.
+- The Baselines folder contains the compared SOTA approaches and the ThaiCaps folder contains the proposed framework.
+- Each framework has a run.py file which can be executed with -
+    ```bash
+    CUDA_VISIBLE_DEVICES=0 python run.py
+
 
 ![Instance per category](asset/stackedbarsent.png)
 

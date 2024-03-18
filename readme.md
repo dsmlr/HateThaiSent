@@ -15,8 +15,6 @@ This repository contains annotated data of Thai hate speech available for hate s
 - Each framework has a run.py file which can be executed with -
     ```bash
     CUDA_VISIBLE_DEVICES=0 python run.py
-
-
 ![Instance per category](asset/stackedbarsent.png)
 
 ## Licensing
